@@ -13,5 +13,6 @@ public class HelloPatika {
 
     public static void main(String[] args) {
         System.out.println("Hello Patika!");
+        System.out.println("Muharrem AÇIKGÖZ");
     }
 }
